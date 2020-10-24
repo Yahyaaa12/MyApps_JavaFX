@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="MyApps1.jnlp">
+    <information>
+        <title>MyApps1</title>
+        <vendor>Mantaf</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="11.0.8+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="MyApps1.jar" size="2879" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="myapps1.MyApps1" name="MyApps1"/>
+</jnlp>
+
